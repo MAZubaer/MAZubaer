@@ -22,3 +22,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mazubaer&show_icons=true&locale=en" alt="mazubaer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mazubaer&" alt="mazubaer" /></p>
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/MAZubaer/MAZubaer/output/snake.svg" alt="Snake animation" />
+
+###
