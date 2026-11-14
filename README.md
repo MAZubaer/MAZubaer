@@ -9,10 +9,10 @@
   <a href="https://github.com/MAZubaer"><img src="https://img.shields.io/github/stars/MAZubaer?label=STARS&style=for-the-badge&color=ff2e97&labelColor=0d1117&logo=github" alt="Stars" /></a>
 </p>
 
-<!-- ═════════════ ABOUT (animated terminal) ═════════════ -->
+<!-- ═════════════ ABOUT (HUD panel — about.svg lives in this repo) ═════════════ -->
 <p align="center">
   <a href="https://zubaers-portfolio-website-ten.vercel.app/">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=17&duration=1800&pause=6000&color=00F7FF&background=0D111700&multiline=true&repeat=true&width=620&height=165&lines=%3E+boot+zubaer.ai+...+%5BOK%5D;%3E+building+%3A+Gen+AI+%C2%B7+Computer+Vision+%C2%B7+NLP;%3E+learning+%3A+Analytics+%C2%B7+RAG+%C2%B7+LLM+Fine-Tuning;%3E+ask+me+++%3A+anything+AI+%2F+ML;%3E+status+++%3A+online+%E2%80%94+open+to+collaboration" alt="Building Gen AI, Computer Vision and NLP. Learning Analytics, RAG and LLM fine-tuning. Ask me anything about AI/ML." />
+    <img width="720" src="./about.svg" alt="Building Gen AI, Computer Vision and NLP. Learning Analytics, RAG and LLM Fine-Tuning. Ask me anything about AI/ML. Open to collaboration." />
   </a>
 </p>
 
