@@ -9,11 +9,14 @@
   <a href="https://github.com/MAZubaer"><img src="https://img.shields.io/github/stars/MAZubaer?label=STARS&style=for-the-badge&color=ff2e97&labelColor=0d1117&logo=github" alt="Stars" /></a>
 </p>
 
-<!-- ═════════════ ABOUT (HUD panel — about.svg lives in this repo) ═════════════ -->
+<!-- ═════════════ ABOUT (4 panels, no extra files) ═════════════ -->
 <p align="center">
-  <a href="https://zubaers-portfolio-website-ten.vercel.app/">
-    <img width="720" src="./about.svg" alt="Building Gen AI, Computer Vision and NLP. Learning Analytics, RAG and LLM Fine-Tuning. Ask me anything about AI/ML. Open to collaboration." />
-  </a>
+  <img width="49%" src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:0d1117,100:0b3d91&text=Gen%20AI%20%C2%B7%20Computer%20Vision%20%C2%B7%20NLP&fontSize=38&fontColor=00f7ff&fontAlignY=66&desc=BUILDING&descSize=22&descAlignY=30&animation=fadeIn" alt="Building: Gen AI, Computer Vision, NLP" />
+  <img width="49%" src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:0b3d91,100:0d1117&text=Analytics%20%C2%B7%20RAG%20%C2%B7%20LLM%20Fine-Tuning&fontSize=38&fontColor=00f7ff&fontAlignY=66&desc=LEARNING&descSize=22&descAlignY=30&animation=fadeIn" alt="Learning: Analytics, RAG, LLM Fine-Tuning" />
+</p>
+<p align="center">
+  <img width="49%" src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:0d1117,100:0b3d91&text=Anything%20AI%20%2F%20ML&fontSize=38&fontColor=00f7ff&fontAlignY=66&desc=ASK%20ME&descSize=22&descAlignY=30&animation=fadeIn" alt="Ask me anything about AI/ML" />
+  <img width="49%" src="https://capsule-render.vercel.app/api?type=soft&height=170&color=0:0b3d91,100:0d1117&text=Open%20to%20collaboration&fontSize=38&fontColor=00f7ff&fontAlignY=66&desc=STATUS&descSize=22&descAlignY=30&animation=fadeIn" alt="Status: open to collaboration" />
 </p>
 
 <p align="center">
